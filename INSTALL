@@ -1,0 +1,9 @@
+Building xzurmo
+
+See doc/readme-qt.rst for instructions on building xzurmo QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of xzurmo.
+
+See doc/build-*.txt for instructions on building xzurmod,
+the intended-for-services, no-graphical-interface, reference
+implementation of xzurmo.
